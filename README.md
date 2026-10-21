@@ -6,7 +6,7 @@ Shared, cross-project assets for Salesforce-template decks. Read this file inste
 
 Paths are relative to the repo root. Every animated icon exists as `name.gif` (animated, plays in slideshow) and `name.png` (static, best frame). **Use the PNG for anything exported to PDF or printed**, and whenever `first frame blank` = yes (the GIF shows nothing in PDF/thumbnail).
 
-## rules-of-use
+## Rules of use
 
 - Blue icons on white / light-blue backgrounds; White icons on dark-blue backgrounds. Never put a coloured tile or circle behind an icon (plain icons only)
 - One icon family per slide; same size for icons in a row (≈0.9–1.2" on the 20" canvas); align on the text they illustrate

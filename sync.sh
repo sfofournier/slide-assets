@@ -98,7 +98,8 @@ def fix_code(m):
     return "`" + (kpath(t) if re.search(r"\.(png|gif|PNG|GIF)$", t) or "/" in t else t) + "`"
 readme = re.sub(r"`([^`\n]+)`", fix_code, readme)
 readme = re.sub(r"^(## )([A-Za-z0-9 ]+(?:/[A-Za-z0-9 ]+)?)( — |$)",
-                lambda m: m.group(1) + "/".join(kebab(p) for p in m.group(2).split("/")) + m.group(3),
+                lambda m: m.group(1) + ("/".join(kebab(p) for p in m.group(2).split("/"))
+                                        if m.group(2).split("/")[0] in TOP else m.group(2)) + m.group(3),
                 readme, flags=re.M)
 readme = re.sub(r"^\| ([^|\n]+\.(?:png|gif)) \|", lambda m: "| " + kpath(m.group(1)) + " |", readme, flags=re.M)
 header = "Salesforce brand assets for internal slide building. Not licensed for reuse.\n\n"

@@ -126,4 +126,4 @@ if git diff --cached --quiet; then echo "No changes."; exit 0; fi
   git diff --cached --name-status --diff-filter=M | sed 's/^M\t/modified: /'
   git diff --cached --name-status --diff-filter=D | sed 's/^D\t/removed: /'
 } | git commit -q -F -
-git push -u origin main
+git -c credential.helper= -c credential.helper='!gh auth git-credential' push -u origin main

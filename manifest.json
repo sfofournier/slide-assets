@@ -1,0 +1,4012 @@
+[
+ {
+  "path": "3d-accents/cursors/cursor-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/cursors/cursor-blue.png",
+  "category": "3d-accents",
+  "set": "cursors",
+  "name": "cursor-blue",
+  "width": 267,
+  "height": 367,
+  "bytes": 71769
+ },
+ {
+  "path": "3d-accents/cursors/cursor-orange.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/cursors/cursor-orange.png",
+  "category": "3d-accents",
+  "set": "cursors",
+  "name": "cursor-orange",
+  "width": 267,
+  "height": 367,
+  "bytes": 83188
+ },
+ {
+  "path": "3d-accents/cursors/cursor-pink.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/cursors/cursor-pink.png",
+  "category": "3d-accents",
+  "set": "cursors",
+  "name": "cursor-pink",
+  "width": 267,
+  "height": 366,
+  "bytes": 73797
+ },
+ {
+  "path": "3d-accents/cursors/cursor-teal.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/cursors/cursor-teal.png",
+  "category": "3d-accents",
+  "set": "cursors",
+  "name": "cursor-teal",
+  "width": 267,
+  "height": 366,
+  "bytes": 76116
+ },
+ {
+  "path": "3d-accents/cursors/cursor-violet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/cursors/cursor-violet.png",
+  "category": "3d-accents",
+  "set": "cursors",
+  "name": "cursor-violet",
+  "width": 267,
+  "height": 367,
+  "bytes": 84908
+ },
+ {
+  "path": "3d-accents/emoji/angry.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/angry.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "angry",
+  "width": 358,
+  "height": 338,
+  "bytes": 127274
+ },
+ {
+  "path": "3d-accents/emoji/anxious.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/anxious.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "anxious",
+  "width": 354,
+  "height": 335,
+  "bytes": 123749
+ },
+ {
+  "path": "3d-accents/emoji/astonished.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/astonished.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "astonished",
+  "width": 358,
+  "height": 337,
+  "bytes": 121250
+ },
+ {
+  "path": "3d-accents/emoji/grinning.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/grinning.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "grinning",
+  "width": 360,
+  "height": 340,
+  "bytes": 120532
+ },
+ {
+  "path": "3d-accents/emoji/headset-support.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/headset-support.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "headset-support",
+  "width": 423,
+  "height": 338,
+  "bytes": 142290
+ },
+ {
+  "path": "3d-accents/emoji/heart-eyes.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/heart-eyes.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "heart-eyes",
+  "width": 366,
+  "height": 346,
+  "bytes": 131243
+ },
+ {
+  "path": "3d-accents/emoji/laughing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/laughing.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "laughing",
+  "width": 340,
+  "height": 321,
+  "bytes": 109707
+ },
+ {
+  "path": "3d-accents/emoji/mind-blown.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/mind-blown.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "mind-blown",
+  "width": 354,
+  "height": 388,
+  "bytes": 124424
+ },
+ {
+  "path": "3d-accents/emoji/party.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/party.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "party",
+  "width": 401,
+  "height": 394,
+  "bytes": 140730
+ },
+ {
+  "path": "3d-accents/emoji/smiling.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/smiling.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "smiling",
+  "width": 354,
+  "height": 335,
+  "bytes": 108225
+ },
+ {
+  "path": "3d-accents/emoji/thinking.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/thinking.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "thinking",
+  "width": 358,
+  "height": 377,
+  "bytes": 124527
+ },
+ {
+  "path": "3d-accents/emoji/winking.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/winking.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "winking",
+  "width": 354,
+  "height": 335,
+  "bytes": 115852
+ },
+ {
+  "path": "3d-accents/emoji/worried.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/emoji/worried.png",
+  "category": "3d-accents",
+  "set": "emoji",
+  "name": "worried",
+  "width": 354,
+  "height": 335,
+  "bytes": 115275
+ },
+ {
+  "path": "3d-accents/hands/clap.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/hands/clap.png",
+  "category": "3d-accents",
+  "set": "hands",
+  "name": "clap",
+  "width": 458,
+  "height": 287,
+  "bytes": 116733
+ },
+ {
+  "path": "3d-accents/hands/handshake.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/hands/handshake.png",
+  "category": "3d-accents",
+  "set": "hands",
+  "name": "handshake",
+  "width": 486,
+  "height": 260,
+  "bytes": 137238
+ },
+ {
+  "path": "3d-accents/hands/pinch.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/hands/pinch.png",
+  "category": "3d-accents",
+  "set": "hands",
+  "name": "pinch",
+  "width": 396,
+  "height": 385,
+  "bytes": 112810
+ },
+ {
+  "path": "3d-accents/hands/thumbs-up-left.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/hands/thumbs-up-left.png",
+  "category": "3d-accents",
+  "set": "hands",
+  "name": "thumbs-up-left",
+  "width": 369,
+  "height": 336,
+  "bytes": 98999
+ },
+ {
+  "path": "3d-accents/hands/thumbs-up.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/hands/thumbs-up.png",
+  "category": "3d-accents",
+  "set": "hands",
+  "name": "thumbs-up",
+  "width": 381,
+  "height": 342,
+  "bytes": 98293
+ },
+ {
+  "path": "3d-accents/objects/chevrons-forward.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/chevrons-forward.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "chevrons-forward",
+  "width": 980,
+  "height": 1000,
+  "bytes": 406292
+ },
+ {
+  "path": "3d-accents/objects/compass.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/compass.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "compass",
+  "width": 354,
+  "height": 494,
+  "bytes": 236262
+ },
+ {
+  "path": "3d-accents/objects/graduation-cap.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/graduation-cap.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "graduation-cap",
+  "width": 264,
+  "height": 186,
+  "bytes": 45927
+ },
+ {
+  "path": "3d-accents/objects/heart-glossy.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/heart-glossy.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "heart-glossy",
+  "width": 412,
+  "height": 368,
+  "bytes": 131794
+ },
+ {
+  "path": "3d-accents/objects/heart-pink.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/heart-pink.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "heart-pink",
+  "width": 493,
+  "height": 454,
+  "bytes": 107332
+ },
+ {
+  "path": "3d-accents/objects/hex-badge-navy-sparkle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/hex-badge-navy-sparkle.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "hex-badge-navy-sparkle",
+  "width": 752,
+  "height": 828,
+  "bytes": 172170
+ },
+ {
+  "path": "3d-accents/objects/hex-badge-violet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/hex-badge-violet.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "hex-badge-violet",
+  "width": 444,
+  "height": 532,
+  "bytes": 97422
+ },
+ {
+  "path": "3d-accents/objects/jetpack.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/jetpack.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "jetpack",
+  "width": 394,
+  "height": 502,
+  "bytes": 310674
+ },
+ {
+  "path": "3d-accents/objects/lightbulb.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/lightbulb.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "lightbulb",
+  "width": 543,
+  "height": 793,
+  "bytes": 453219
+ },
+ {
+  "path": "3d-accents/objects/location-pin.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/location-pin.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "location-pin",
+  "width": 424,
+  "height": 496,
+  "bytes": 115991
+ },
+ {
+  "path": "3d-accents/objects/lock-holographic.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/lock-holographic.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "lock-holographic",
+  "width": 665,
+  "height": 868,
+  "bytes": 863406
+ },
+ {
+  "path": "3d-accents/objects/paintbrush.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/paintbrush.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "paintbrush",
+  "width": 440,
+  "height": 445,
+  "bytes": 171737
+ },
+ {
+  "path": "3d-accents/objects/person-check.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/person-check.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "person-check",
+  "width": 463,
+  "height": 541,
+  "bytes": 237990
+ },
+ {
+  "path": "3d-accents/objects/person-scan-pink.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/person-scan-pink.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "person-scan-pink",
+  "width": 509,
+  "height": 554,
+  "bytes": 203922
+ },
+ {
+  "path": "3d-accents/objects/plus-tile-glass.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/plus-tile-glass.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "plus-tile-glass",
+  "width": 592,
+  "height": 605,
+  "bytes": 184406
+ },
+ {
+  "path": "3d-accents/objects/rocket.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/rocket.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "rocket",
+  "width": 557,
+  "height": 812,
+  "bytes": 278151
+ },
+ {
+  "path": "3d-accents/objects/trailhead-badge.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/objects/trailhead-badge.png",
+  "category": "3d-accents",
+  "set": "objects",
+  "name": "trailhead-badge",
+  "width": 850,
+  "height": 948,
+  "bytes": 800012
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-blue-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-blue-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-blue-2",
+  "width": 326,
+  "height": 305,
+  "bytes": 35342
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-blue-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-blue-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-blue-3",
+  "width": 320,
+  "height": 329,
+  "bytes": 41563
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-blue.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-blue",
+  "width": 359,
+  "height": 360,
+  "bytes": 41111
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-cyan-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-cyan-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-cyan-2",
+  "width": 359,
+  "height": 360,
+  "bytes": 52294
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-cyan-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-cyan-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-cyan-3",
+  "width": 320,
+  "height": 329,
+  "bytes": 45479
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-cyan.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-cyan.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-cyan",
+  "width": 326,
+  "height": 305,
+  "bytes": 38736
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-holographic-blue-tall.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-holographic-blue-tall.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-holographic-blue-tall",
+  "width": 466,
+  "height": 585,
+  "bytes": 213178
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-holographic-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-holographic-blue.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-holographic-blue",
+  "width": 420,
+  "height": 420,
+  "bytes": 108572
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-holographic-violet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-holographic-violet.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-holographic-violet",
+  "width": 420,
+  "height": 420,
+  "bytes": 108631
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-pink-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-pink-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-pink-2",
+  "width": 359,
+  "height": 360,
+  "bytes": 46866
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-pink-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-pink-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-pink-3",
+  "width": 320,
+  "height": 329,
+  "bytes": 48990
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-pink.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-pink.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-pink",
+  "width": 326,
+  "height": 305,
+  "bytes": 42077
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-teal-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-teal-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-teal-2",
+  "width": 326,
+  "height": 305,
+  "bytes": 40227
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-teal-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-teal-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-teal-3",
+  "width": 320,
+  "height": 329,
+  "bytes": 46671
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-teal.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-teal.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-teal",
+  "width": 359,
+  "height": 360,
+  "bytes": 45735
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-violet-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-violet-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-violet-2",
+  "width": 326,
+  "height": 305,
+  "bytes": 41902
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-violet-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-violet-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-violet-3",
+  "width": 359,
+  "height": 360,
+  "bytes": 43158
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-violet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-violet.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-violet",
+  "width": 320,
+  "height": 329,
+  "bytes": 43550
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-yellow-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-yellow-2.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-yellow-2",
+  "width": 320,
+  "height": 329,
+  "bytes": 47310
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-yellow-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-yellow-3.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-yellow-3",
+  "width": 326,
+  "height": 305,
+  "bytes": 40544
+ },
+ {
+  "path": "3d-accents/sparkles/sparkle-yellow.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkle-yellow.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkle-yellow",
+  "width": 640,
+  "height": 641,
+  "bytes": 126045
+ },
+ {
+  "path": "3d-accents/sparkles/sparkles-app-tile.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkles-app-tile.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkles-app-tile",
+  "width": 222,
+  "height": 241,
+  "bytes": 52754
+ },
+ {
+  "path": "3d-accents/sparkles/sparkles-cluster-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/3d-accents/sparkles/sparkles-cluster-blue.png",
+  "category": "3d-accents",
+  "set": "sparkles",
+  "name": "sparkles-cluster-blue",
+  "width": 831,
+  "height": 630,
+  "bytes": 358395
+ },
+ {
+  "path": "agent-astro/celebrating-arms-up.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/celebrating-arms-up.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "celebrating-arms-up",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 931974
+ },
+ {
+  "path": "agent-astro/floating-gesturing-right.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/floating-gesturing-right.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "floating-gesturing-right",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 881176
+ },
+ {
+  "path": "agent-astro/floating-pointing-right.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/floating-pointing-right.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "floating-pointing-right",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 771873
+ },
+ {
+  "path": "agent-astro/flying-forward.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/flying-forward.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "flying-forward",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 691461
+ },
+ {
+  "path": "agent-astro/flying-reaching-right.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/flying-reaching-right.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "flying-reaching-right",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 818137
+ },
+ {
+  "path": "agent-astro/jumping-waving.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/jumping-waving.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "jumping-waving",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 844349
+ },
+ {
+  "path": "agent-astro/shadow.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/shadow.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "shadow",
+  "width": 244,
+  "height": 110,
+  "bytes": 2376
+ },
+ {
+  "path": "agent-astro/standing-presenting-left.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/standing-presenting-left.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "standing-presenting-left",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 1017814
+ },
+ {
+  "path": "agent-astro/standing-presenting-right.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/standing-presenting-right.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "standing-presenting-right",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 951438
+ },
+ {
+  "path": "agent-astro/standing-waving.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/agent-astro/standing-waving.png",
+  "category": "agent-astro",
+  "set": "",
+  "name": "standing-waving",
+  "width": 1400,
+  "height": 1400,
+  "bytes": 1049321
+ },
+ {
+  "path": "astro/crystal-ball-ai.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/crystal-ball-ai.png",
+  "category": "astro",
+  "set": "",
+  "name": "crystal-ball-ai",
+  "width": 900,
+  "height": 989,
+  "bytes": 874702
+ },
+ {
+  "path": "astro/hard-hat.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/hard-hat.png",
+  "category": "astro",
+  "set": "",
+  "name": "hard-hat",
+  "width": 807,
+  "height": 986,
+  "bytes": 842321
+ },
+ {
+  "path": "astro/holding-sign-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/holding-sign-2.png",
+  "category": "astro",
+  "set": "",
+  "name": "holding-sign-2",
+  "width": 759,
+  "height": 988,
+  "bytes": 784826
+ },
+ {
+  "path": "astro/holding-sign.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/holding-sign.png",
+  "category": "astro",
+  "set": "",
+  "name": "holding-sign",
+  "width": 583,
+  "height": 988,
+  "bytes": 706476
+ },
+ {
+  "path": "astro/jumping-waving.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/jumping-waving.png",
+  "category": "astro",
+  "set": "",
+  "name": "jumping-waving",
+  "width": 672,
+  "height": 1000,
+  "bytes": 980362
+ },
+ {
+  "path": "astro/presenting-right-hoodie.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/presenting-right-hoodie.png",
+  "category": "astro",
+  "set": "",
+  "name": "presenting-right-hoodie",
+  "width": 776,
+  "height": 936,
+  "bytes": 829335
+ },
+ {
+  "path": "astro/presenting-right-tee.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/presenting-right-tee.png",
+  "category": "astro",
+  "set": "",
+  "name": "presenting-right-tee",
+  "width": 798,
+  "height": 965,
+  "bytes": 735044
+ },
+ {
+  "path": "astro/presenting-right.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/presenting-right.png",
+  "category": "astro",
+  "set": "",
+  "name": "presenting-right",
+  "width": 800,
+  "height": 988,
+  "bytes": 924441
+ },
+ {
+  "path": "astro/ranger-sparkle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/ranger-sparkle.png",
+  "category": "astro",
+  "set": "",
+  "name": "ranger-sparkle",
+  "width": 801,
+  "height": 1000,
+  "bytes": 924680
+ },
+ {
+  "path": "astro/reaching-right-closeup.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/reaching-right-closeup.png",
+  "category": "astro",
+  "set": "",
+  "name": "reaching-right-closeup",
+  "width": 757,
+  "height": 650,
+  "bytes": 773475
+ },
+ {
+  "path": "astro/running.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/running.png",
+  "category": "astro",
+  "set": "",
+  "name": "running",
+  "width": 687,
+  "height": 978,
+  "bytes": 747620
+ },
+ {
+  "path": "astro/selfie.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/selfie.png",
+  "category": "astro",
+  "set": "",
+  "name": "selfie",
+  "width": 769,
+  "height": 1000,
+  "bytes": 911497
+ },
+ {
+  "path": "astro/standing-backpack.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/standing-backpack.png",
+  "category": "astro",
+  "set": "",
+  "name": "standing-backpack",
+  "width": 628,
+  "height": 1000,
+  "bytes": 875887
+ },
+ {
+  "path": "astro/standing-hoodie.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/standing-hoodie.png",
+  "category": "astro",
+  "set": "",
+  "name": "standing-hoodie",
+  "width": 544,
+  "height": 888,
+  "bytes": 853629
+ },
+ {
+  "path": "astro/walking-hoodie.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/walking-hoodie.png",
+  "category": "astro",
+  "set": "",
+  "name": "walking-hoodie",
+  "width": 647,
+  "height": 984,
+  "bytes": 831319
+ },
+ {
+  "path": "astro/walking-tee.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/walking-tee.png",
+  "category": "astro",
+  "set": "",
+  "name": "walking-tee",
+  "width": 640,
+  "height": 1000,
+  "bytes": 922979
+ },
+ {
+  "path": "astro/walking.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/walking.png",
+  "category": "astro",
+  "set": "",
+  "name": "walking",
+  "width": 604,
+  "height": 968,
+  "bytes": 905458
+ },
+ {
+  "path": "astro/waving-slack-shirt.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/waving-slack-shirt.png",
+  "category": "astro",
+  "set": "",
+  "name": "waving-slack-shirt",
+  "width": 694,
+  "height": 935,
+  "bytes": 840368
+ },
+ {
+  "path": "astro/waving.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/astro/waving.png",
+  "category": "astro",
+  "set": "",
+  "name": "waving",
+  "width": 617,
+  "height": 945,
+  "bytes": 954989
+ },
+ {
+  "path": "cards/card-1x1.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-1x1.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-1x1",
+  "width": 960,
+  "height": 960,
+  "bytes": 33219
+ },
+ {
+  "path": "cards/card-1x2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-1x2.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-1x2",
+  "width": 860,
+  "height": 1560,
+  "bytes": 34388
+ },
+ {
+  "path": "cards/card-2x1.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-2x1.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-2x1",
+  "width": 1560,
+  "height": 860,
+  "bytes": 35761
+ },
+ {
+  "path": "cards/card-3x1.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-3x1.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-3x1",
+  "width": 1660,
+  "height": 660,
+  "bytes": 31331
+ },
+ {
+  "path": "cards/card-3x2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-3x2.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-3x2",
+  "width": 1360,
+  "height": 960,
+  "bytes": 36899
+ },
+ {
+  "path": "cards/card-3x4.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-3x4.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-3x4",
+  "width": 1060,
+  "height": 1360,
+  "bytes": 39422
+ },
+ {
+  "path": "cards/card-4x3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/cards/card-4x3.png",
+  "category": "cards",
+  "set": "",
+  "name": "card-4x3",
+  "width": 1360,
+  "height": 1060,
+  "bytes": 39342
+ },
+ {
+  "path": "contact-sheets/3d-cursors.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/3d-cursors.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "3d-cursors",
+  "width": 1200,
+  "height": 254,
+  "bytes": 96718
+ },
+ {
+  "path": "contact-sheets/3d-emoji.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/3d-emoji.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "3d-emoji",
+  "width": 1200,
+  "height": 702,
+  "bytes": 395783
+ },
+ {
+  "path": "contact-sheets/3d-hands.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/3d-hands.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "3d-hands",
+  "width": 1200,
+  "height": 254,
+  "bytes": 141785
+ },
+ {
+  "path": "contact-sheets/3d-objects.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/3d-objects.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "3d-objects",
+  "width": 1200,
+  "height": 1374,
+  "bytes": 875179
+ },
+ {
+  "path": "contact-sheets/3d-sparkles.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/3d-sparkles.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "3d-sparkles",
+  "width": 1200,
+  "height": 926,
+  "bytes": 415681
+ },
+ {
+  "path": "contact-sheets/agent-astro.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/agent-astro.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "agent-astro",
+  "width": 1200,
+  "height": 528,
+  "bytes": 273153
+ },
+ {
+  "path": "contact-sheets/astro-trailhead.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/astro-trailhead.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "astro-trailhead",
+  "width": 1200,
+  "height": 926,
+  "bytes": 643782
+ },
+ {
+  "path": "contact-sheets/cards.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/cards.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "cards",
+  "width": 1200,
+  "height": 478,
+  "bytes": 15892
+ },
+ {
+  "path": "contact-sheets/frames.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/frames.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "frames",
+  "width": 1200,
+  "height": 254,
+  "bytes": 12114
+ },
+ {
+  "path": "contact-sheets/icons-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/icons-blue.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "icons-blue",
+  "width": 1600,
+  "height": 2016,
+  "bytes": 424525
+ },
+ {
+  "path": "contact-sheets/icons-white.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/icons-white.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "icons-white",
+  "width": 1600,
+  "height": 1344,
+  "bytes": 211020
+ },
+ {
+  "path": "contact-sheets/product-icons-2d.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/product-icons-2d.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "product-icons-2d",
+  "width": 1600,
+  "height": 672,
+  "bytes": 179672
+ },
+ {
+  "path": "contact-sheets/product-icons-3d.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/product-icons-3d.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "product-icons-3d",
+  "width": 1600,
+  "height": 672,
+  "bytes": 308818
+ },
+ {
+  "path": "contact-sheets/product-icons-flat.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/contact-sheets/product-icons-flat.png",
+  "category": "contact-sheets",
+  "set": "",
+  "name": "product-icons-flat",
+  "width": 1600,
+  "height": 672,
+  "bytes": 135894
+ },
+ {
+  "path": "frames/laptop.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/frames/laptop.png",
+  "category": "frames",
+  "set": "",
+  "name": "laptop",
+  "width": 1000,
+  "height": 500,
+  "bytes": 39597
+ },
+ {
+  "path": "frames/monitor.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/frames/monitor.png",
+  "category": "frames",
+  "set": "",
+  "name": "monitor",
+  "width": 1000,
+  "height": 741,
+  "bytes": 64690
+ },
+ {
+  "path": "frames/phone.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/frames/phone.png",
+  "category": "frames",
+  "set": "",
+  "name": "phone",
+  "width": 483,
+  "height": 1000,
+  "bytes": 65150
+ },
+ {
+  "path": "frames/tablet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/frames/tablet.png",
+  "category": "frames",
+  "set": "",
+  "name": "tablet",
+  "width": 762,
+  "height": 1000,
+  "bytes": 65771
+ },
+ {
+  "path": "icons/blue/agent-astro-head.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/agent-astro-head.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "agent-astro-head",
+  "width": 500,
+  "height": 500,
+  "bytes": 11598827
+ },
+ {
+  "path": "icons/blue/agent-astro-head.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/agent-astro-head.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "agent-astro-head",
+  "width": 500,
+  "height": 500,
+  "bytes": 192914
+ },
+ {
+  "path": "icons/blue/arrow-left-line.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrow-left-line.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrow-left-line",
+  "width": 320,
+  "height": 60,
+  "bytes": 26343
+ },
+ {
+  "path": "icons/blue/arrow-left-line.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrow-left-line.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrow-left-line",
+  "width": 320,
+  "height": 60,
+  "bytes": 354
+ },
+ {
+  "path": "icons/blue/arrow-right-3d.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrow-right-3d.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrow-right-3d",
+  "width": 456,
+  "height": 322,
+  "bytes": 49656
+ },
+ {
+  "path": "icons/blue/arrow-right-3d.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrow-right-3d.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrow-right-3d",
+  "width": 456,
+  "height": 322,
+  "bytes": 4894
+ },
+ {
+  "path": "icons/blue/arrows-down-three.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrows-down-three.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrows-down-three",
+  "width": 466,
+  "height": 295,
+  "bytes": 68871
+ },
+ {
+  "path": "icons/blue/arrows-down-three.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/arrows-down-three.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "arrows-down-three",
+  "width": 466,
+  "height": 295,
+  "bytes": 4508
+ },
+ {
+  "path": "icons/blue/bar-chart-growth-green.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bar-chart-growth-green.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "bar-chart-growth-green",
+  "width": 800,
+  "height": 905,
+  "bytes": 753983
+ },
+ {
+  "path": "icons/blue/bar-chart-growth-green.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bar-chart-growth-green.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "bar-chart-growth-green",
+  "width": 800,
+  "height": 905,
+  "bytes": 4228
+ },
+ {
+  "path": "icons/blue/bar-chart.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bar-chart.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "bar-chart",
+  "width": 700,
+  "height": 700,
+  "bytes": 143773
+ },
+ {
+  "path": "icons/blue/bar-chart.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bar-chart.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "bar-chart",
+  "width": 700,
+  "height": 700,
+  "bytes": 7571
+ },
+ {
+  "path": "icons/blue/battery-full.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/battery-full.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "battery-full",
+  "width": 800,
+  "height": 493,
+  "bytes": 375471
+ },
+ {
+  "path": "icons/blue/battery-full.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/battery-full.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "battery-full",
+  "width": 800,
+  "height": 493,
+  "bytes": 2572
+ },
+ {
+  "path": "icons/blue/bell-notification.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bell-notification.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "bell-notification",
+  "width": 600,
+  "height": 600,
+  "bytes": 72351
+ },
+ {
+  "path": "icons/blue/bell-notification.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/bell-notification.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "bell-notification",
+  "width": 600,
+  "height": 600,
+  "bytes": 8640
+ },
+ {
+  "path": "icons/blue/brick-wall.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/brick-wall.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "brick-wall",
+  "width": 640,
+  "height": 640,
+  "bytes": 120124
+ },
+ {
+  "path": "icons/blue/brick-wall.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/brick-wall.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "brick-wall",
+  "width": 640,
+  "height": 640,
+  "bytes": 5639
+ },
+ {
+  "path": "icons/blue/burst-lines.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/burst-lines.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "burst-lines",
+  "width": 1242,
+  "height": 557,
+  "bytes": 10409
+ },
+ {
+  "path": "icons/blue/burst-lines.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/burst-lines.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "burst-lines",
+  "width": 1242,
+  "height": 557,
+  "bytes": 10874
+ },
+ {
+  "path": "icons/blue/button-add-to-bag.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-add-to-bag.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-add-to-bag",
+  "width": 576,
+  "height": 576,
+  "bytes": 15755
+ },
+ {
+  "path": "icons/blue/button-add-to-bag.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-add-to-bag.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-add-to-bag",
+  "width": 576,
+  "height": 576,
+  "bytes": 6567
+ },
+ {
+  "path": "icons/blue/button-sign-up.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-sign-up.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-sign-up",
+  "width": 502,
+  "height": 157,
+  "bytes": 17104
+ },
+ {
+  "path": "icons/blue/button-sign-up.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-sign-up.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-sign-up",
+  "width": 502,
+  "height": 157,
+  "bytes": 4152
+ },
+ {
+  "path": "icons/blue/button-submit.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-submit.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-submit",
+  "width": 576,
+  "height": 576,
+  "bytes": 15402
+ },
+ {
+  "path": "icons/blue/button-submit.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/button-submit.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "button-submit",
+  "width": 576,
+  "height": 576,
+  "bytes": 5271
+ },
+ {
+  "path": "icons/blue/calendar.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/calendar.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "calendar",
+  "width": 600,
+  "height": 600,
+  "bytes": 108061
+ },
+ {
+  "path": "icons/blue/calendar.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/calendar.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "calendar",
+  "width": 600,
+  "height": 600,
+  "bytes": 5831
+ },
+ {
+  "path": "icons/blue/cart-dollar-2.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-dollar-2.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-dollar-2",
+  "width": 541,
+  "height": 521,
+  "bytes": 113229
+ },
+ {
+  "path": "icons/blue/cart-dollar-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-dollar-2.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-dollar-2",
+  "width": 541,
+  "height": 521,
+  "bytes": 10936
+ },
+ {
+  "path": "icons/blue/cart-dollar.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-dollar.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-dollar",
+  "width": 477,
+  "height": 468,
+  "bytes": 80956
+ },
+ {
+  "path": "icons/blue/cart-dollar.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-dollar.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-dollar",
+  "width": 477,
+  "height": 468,
+  "bytes": 10402
+ },
+ {
+  "path": "icons/blue/cart-upload.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-upload.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-upload",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 234455
+ },
+ {
+  "path": "icons/blue/cart-upload.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cart-upload.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "cart-upload",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 30992
+ },
+ {
+  "path": "icons/blue/chat-bubble-red.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chat-bubble-red.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "chat-bubble-red",
+  "width": 600,
+  "height": 600,
+  "bytes": 15560
+ },
+ {
+  "path": "icons/blue/chat-bubble-red.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chat-bubble-red.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "chat-bubble-red",
+  "width": 600,
+  "height": 600,
+  "bytes": 4451
+ },
+ {
+  "path": "icons/blue/chat-typing.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chat-typing.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "chat-typing",
+  "width": 193,
+  "height": 101,
+  "bytes": 2739
+ },
+ {
+  "path": "icons/blue/chat-typing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chat-typing.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "chat-typing",
+  "width": 193,
+  "height": 101,
+  "bytes": 2317
+ },
+ {
+  "path": "icons/blue/checkmark-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/checkmark-circle.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "checkmark-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 60100
+ },
+ {
+  "path": "icons/blue/checkmark-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/checkmark-circle.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "checkmark-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 13666
+ },
+ {
+  "path": "icons/blue/chevrons-double-navy.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chevrons-double-navy.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "chevrons-double-navy",
+  "width": 532,
+  "height": 350,
+  "bytes": 37817
+ },
+ {
+  "path": "icons/blue/chevrons-double-navy.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chevrons-double-navy.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "chevrons-double-navy",
+  "width": 532,
+  "height": 350,
+  "bytes": 2844
+ },
+ {
+  "path": "icons/blue/chevrons-double-white.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chevrons-double-white.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "chevrons-double-white",
+  "width": 532,
+  "height": 350,
+  "bytes": 97042
+ },
+ {
+  "path": "icons/blue/chevrons-double-white.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/chevrons-double-white.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "chevrons-double-white",
+  "width": 532,
+  "height": 350,
+  "bytes": 7962
+ },
+ {
+  "path": "icons/blue/circle-outline.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/circle-outline.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "circle-outline",
+  "width": 800,
+  "height": 800,
+  "bytes": 486421
+ },
+ {
+  "path": "icons/blue/circle-outline.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/circle-outline.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "circle-outline",
+  "width": 800,
+  "height": 800,
+  "bytes": 11773
+ },
+ {
+  "path": "icons/blue/credit-card.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/credit-card.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "credit-card",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 157984
+ },
+ {
+  "path": "icons/blue/credit-card.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/credit-card.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "credit-card",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 21261
+ },
+ {
+  "path": "icons/blue/cursor-pointer.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cursor-pointer.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "cursor-pointer",
+  "width": 1266,
+  "height": 1665,
+  "bytes": 77343
+ },
+ {
+  "path": "icons/blue/cursor-pointer.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/cursor-pointer.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "cursor-pointer",
+  "width": 1266,
+  "height": 1665,
+  "bytes": 42344
+ },
+ {
+  "path": "icons/blue/dashed-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dashed-circle.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "dashed-circle",
+  "width": 1501,
+  "height": 1500,
+  "bytes": 15965
+ },
+ {
+  "path": "icons/blue/dashed-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dashed-circle.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "dashed-circle",
+  "width": 1501,
+  "height": 1500,
+  "bytes": 23099
+ },
+ {
+  "path": "icons/blue/dollar-growth.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dollar-growth.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "dollar-growth",
+  "width": 640,
+  "height": 640,
+  "bytes": 449181
+ },
+ {
+  "path": "icons/blue/dollar-growth.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dollar-growth.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "dollar-growth",
+  "width": 640,
+  "height": 640,
+  "bytes": 27134
+ },
+ {
+  "path": "icons/blue/dot-filled.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dot-filled.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "dot-filled",
+  "width": 800,
+  "height": 800,
+  "bytes": 315346
+ },
+ {
+  "path": "icons/blue/dot-filled.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/dot-filled.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "dot-filled",
+  "width": 800,
+  "height": 800,
+  "bytes": 7305
+ },
+ {
+  "path": "icons/blue/download-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/download-circle.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "download-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 259627
+ },
+ {
+  "path": "icons/blue/download-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/download-circle.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "download-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 13957
+ },
+ {
+  "path": "icons/blue/download.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/download.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "download",
+  "width": 700,
+  "height": 624,
+  "bytes": 26814
+ },
+ {
+  "path": "icons/blue/download.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/download.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "download",
+  "width": 700,
+  "height": 624,
+  "bytes": 6381
+ },
+ {
+  "path": "icons/blue/folder-open-2.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/folder-open-2.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "folder-open-2",
+  "width": 600,
+  "height": 600,
+  "bytes": 430108
+ },
+ {
+  "path": "icons/blue/folder-open-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/folder-open-2.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "folder-open-2",
+  "width": 600,
+  "height": 600,
+  "bytes": 7249
+ },
+ {
+  "path": "icons/blue/folder-open.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/folder-open.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "folder-open",
+  "width": 600,
+  "height": 600,
+  "bytes": 420303
+ },
+ {
+  "path": "icons/blue/folder-open.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/folder-open.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "folder-open",
+  "width": 600,
+  "height": 600,
+  "bytes": 7249
+ },
+ {
+  "path": "icons/blue/heart-3d.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/heart-3d.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "heart-3d",
+  "width": 440,
+  "height": 440,
+  "bytes": 9659
+ },
+ {
+  "path": "icons/blue/heart-flat.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/heart-flat.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "heart-flat",
+  "width": 500,
+  "height": 500,
+  "bytes": 94495
+ },
+ {
+  "path": "icons/blue/heart-flat.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/heart-flat.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "heart-flat",
+  "width": 500,
+  "height": 500,
+  "bytes": 2028
+ },
+ {
+  "path": "icons/blue/lightbulb-idea.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightbulb-idea.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightbulb-idea",
+  "width": 800,
+  "height": 800,
+  "bytes": 1742255
+ },
+ {
+  "path": "icons/blue/lightbulb-idea.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightbulb-idea.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightbulb-idea",
+  "width": 800,
+  "height": 800,
+  "bytes": 19385
+ },
+ {
+  "path": "icons/blue/lightbulb-line.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightbulb-line.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightbulb-line",
+  "width": 640,
+  "height": 640,
+  "bytes": 538319
+ },
+ {
+  "path": "icons/blue/lightbulb-line.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightbulb-line.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightbulb-line",
+  "width": 640,
+  "height": 640,
+  "bytes": 19585
+ },
+ {
+  "path": "icons/blue/lightning-pain.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightning-pain.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightning-pain",
+  "width": 800,
+  "height": 500,
+  "bytes": 143497
+ },
+ {
+  "path": "icons/blue/lightning-pain.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/lightning-pain.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "lightning-pain",
+  "width": 800,
+  "height": 500,
+  "bytes": 3175
+ },
+ {
+  "path": "icons/blue/loading-spinner.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/loading-spinner.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "loading-spinner",
+  "width": 1501,
+  "height": 1501,
+  "bytes": 99205
+ },
+ {
+  "path": "icons/blue/loading-spinner.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/loading-spinner.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "loading-spinner",
+  "width": 1501,
+  "height": 1501,
+  "bytes": 22492
+ },
+ {
+  "path": "icons/blue/location-pin.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/location-pin.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "location-pin",
+  "width": 600,
+  "height": 600,
+  "bytes": 236296
+ },
+ {
+  "path": "icons/blue/location-pin.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/location-pin.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "location-pin",
+  "width": 600,
+  "height": 600,
+  "bytes": 20256
+ },
+ {
+  "path": "icons/blue/mail-notification.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/mail-notification.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "mail-notification",
+  "width": 716,
+  "height": 716,
+  "bytes": 17711
+ },
+ {
+  "path": "icons/blue/mail-notification.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/mail-notification.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "mail-notification",
+  "width": 716,
+  "height": 716,
+  "bytes": 12996
+ },
+ {
+  "path": "icons/blue/meeting-team.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/meeting-team.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "meeting-team",
+  "width": 640,
+  "height": 640,
+  "bytes": 797114
+ },
+ {
+  "path": "icons/blue/meeting-team.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/meeting-team.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "meeting-team",
+  "width": 640,
+  "height": 640,
+  "bytes": 27500
+ },
+ {
+  "path": "icons/blue/megaphone.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/megaphone.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "megaphone",
+  "width": 1936,
+  "height": 1755,
+  "bytes": 440102
+ },
+ {
+  "path": "icons/blue/megaphone.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/megaphone.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "megaphone",
+  "width": 1936,
+  "height": 1755,
+  "bytes": 54988
+ },
+ {
+  "path": "icons/blue/network-hub.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/network-hub.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "network-hub",
+  "width": 640,
+  "height": 640,
+  "bytes": 631053
+ },
+ {
+  "path": "icons/blue/network-hub.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/network-hub.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "network-hub",
+  "width": 640,
+  "height": 640,
+  "bytes": 26183
+ },
+ {
+  "path": "icons/blue/newsletter-mail.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/newsletter-mail.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "newsletter-mail",
+  "width": 716,
+  "height": 716,
+  "bytes": 265379
+ },
+ {
+  "path": "icons/blue/newsletter-mail.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/newsletter-mail.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "newsletter-mail",
+  "width": 716,
+  "height": 716,
+  "bytes": 9834
+ },
+ {
+  "path": "icons/blue/phone-call.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/phone-call.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "phone-call",
+  "width": 600,
+  "height": 600,
+  "bytes": 115362
+ },
+ {
+  "path": "icons/blue/phone-call.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/phone-call.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "phone-call",
+  "width": 600,
+  "height": 600,
+  "bytes": 21012
+ },
+ {
+  "path": "icons/blue/phone-outline.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/phone-outline.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "phone-outline",
+  "width": 600,
+  "height": 658,
+  "bytes": 293416
+ },
+ {
+  "path": "icons/blue/phone-outline.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/phone-outline.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "phone-outline",
+  "width": 600,
+  "height": 658,
+  "bytes": 10099
+ },
+ {
+  "path": "icons/blue/pill-bottle-rx.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/pill-bottle-rx.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "pill-bottle-rx",
+  "width": 352,
+  "height": 460,
+  "bytes": 940546
+ },
+ {
+  "path": "icons/blue/pill-bottle-rx.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/pill-bottle-rx.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "pill-bottle-rx",
+  "width": 352,
+  "height": 460,
+  "bytes": 14548
+ },
+ {
+  "path": "icons/blue/plant-hanging.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/plant-hanging.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "plant-hanging",
+  "width": 500,
+  "height": 500,
+  "bytes": 402881
+ },
+ {
+  "path": "icons/blue/plant-hanging.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/plant-hanging.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "plant-hanging",
+  "width": 500,
+  "height": 500,
+  "bytes": 6872
+ },
+ {
+  "path": "icons/blue/plant-leaves.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/plant-leaves.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "plant-leaves",
+  "width": 600,
+  "height": 600,
+  "bytes": 222307
+ },
+ {
+  "path": "icons/blue/plant-leaves.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/plant-leaves.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "plant-leaves",
+  "width": 600,
+  "height": 600,
+  "bytes": 6851
+ },
+ {
+  "path": "icons/blue/rating-five-stars.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rating-five-stars.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "rating-five-stars",
+  "width": 1980,
+  "height": 1352,
+  "bytes": 346140
+ },
+ {
+  "path": "icons/blue/rating-five-stars.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rating-five-stars.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "rating-five-stars",
+  "width": 1980,
+  "height": 1352,
+  "bytes": 26342
+ },
+ {
+  "path": "icons/blue/rectangle-dashed.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rectangle-dashed.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "rectangle-dashed",
+  "width": 800,
+  "height": 450,
+  "bytes": 608212
+ },
+ {
+  "path": "icons/blue/rectangle-dashed.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rectangle-dashed.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "rectangle-dashed",
+  "width": 800,
+  "height": 450,
+  "bytes": 2922
+ },
+ {
+  "path": "icons/blue/rectangle-outline.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rectangle-outline.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "rectangle-outline",
+  "width": 800,
+  "height": 450,
+  "bytes": 585891
+ },
+ {
+  "path": "icons/blue/rectangle-outline.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/rectangle-outline.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "rectangle-outline",
+  "width": 800,
+  "height": 450,
+  "bytes": 2110
+ },
+ {
+  "path": "icons/blue/scribble-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/scribble-circle.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "scribble-circle",
+  "width": 480,
+  "height": 480,
+  "bytes": 43296
+ },
+ {
+  "path": "icons/blue/scribble-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/scribble-circle.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "scribble-circle",
+  "width": 480,
+  "height": 480,
+  "bytes": 2610
+ },
+ {
+  "path": "icons/blue/search-analytics.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-analytics.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-analytics",
+  "width": 640,
+  "height": 640,
+  "bytes": 1490905
+ },
+ {
+  "path": "icons/blue/search-analytics.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-analytics.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-analytics",
+  "width": 640,
+  "height": 640,
+  "bytes": 30712
+ },
+ {
+  "path": "icons/blue/search-magnifier-grey.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-magnifier-grey.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-magnifier-grey",
+  "width": 600,
+  "height": 600,
+  "bytes": 37016
+ },
+ {
+  "path": "icons/blue/search-magnifier-grey.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-magnifier-grey.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-magnifier-grey",
+  "width": 600,
+  "height": 600,
+  "bytes": 9792
+ },
+ {
+  "path": "icons/blue/search-magnifier.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-magnifier.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-magnifier",
+  "width": 600,
+  "height": 600,
+  "bytes": 493140
+ },
+ {
+  "path": "icons/blue/search-magnifier.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/search-magnifier.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "search-magnifier",
+  "width": 600,
+  "height": 600,
+  "bytes": 14008
+ },
+ {
+  "path": "icons/blue/share-nodes.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/share-nodes.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "share-nodes",
+  "width": 800,
+  "height": 800,
+  "bytes": 255068
+ },
+ {
+  "path": "icons/blue/share-nodes.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/share-nodes.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "share-nodes",
+  "width": 800,
+  "height": 800,
+  "bytes": 36117
+ },
+ {
+  "path": "icons/blue/support-headset.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/support-headset.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "support-headset",
+  "width": 2048,
+  "height": 1365,
+  "bytes": 43684
+ },
+ {
+  "path": "icons/blue/support-headset.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/support-headset.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "support-headset",
+  "width": 2048,
+  "height": 1365,
+  "bytes": 89154
+ },
+ {
+  "path": "icons/blue/target-arrow.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/target-arrow.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "target-arrow",
+  "width": 500,
+  "height": 500,
+  "bytes": 72229
+ },
+ {
+  "path": "icons/blue/target-arrow.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/target-arrow.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "target-arrow",
+  "width": 500,
+  "height": 500,
+  "bytes": 12815
+ },
+ {
+  "path": "icons/blue/team-people.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/team-people.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "team-people",
+  "width": 962,
+  "height": 1008,
+  "bytes": 177887
+ },
+ {
+  "path": "icons/blue/team-people.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/team-people.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "team-people",
+  "width": 962,
+  "height": 1008,
+  "bytes": 25426
+ },
+ {
+  "path": "icons/blue/thumbs-up-blue.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/thumbs-up-blue.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "thumbs-up-blue",
+  "width": 878,
+  "height": 845,
+  "bytes": 68299
+ },
+ {
+  "path": "icons/blue/thumbs-up-blue.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/thumbs-up-blue.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "thumbs-up-blue",
+  "width": 878,
+  "height": 845,
+  "bytes": 12833
+ },
+ {
+  "path": "icons/blue/thumbs-up-dark.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/thumbs-up-dark.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "thumbs-up-dark",
+  "width": 900,
+  "height": 900,
+  "bytes": 65809
+ },
+ {
+  "path": "icons/blue/thumbs-up-dark.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/thumbs-up-dark.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "thumbs-up-dark",
+  "width": 900,
+  "height": 900,
+  "bytes": 9287
+ },
+ {
+  "path": "icons/blue/trophy.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/trophy.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "trophy",
+  "width": 640,
+  "height": 640,
+  "bytes": 223941
+ },
+ {
+  "path": "icons/blue/trophy.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/trophy.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "trophy",
+  "width": 640,
+  "height": 640,
+  "bytes": 23485
+ },
+ {
+  "path": "icons/blue/underline-scribble.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/underline-scribble.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "underline-scribble",
+  "width": 1187,
+  "height": 95,
+  "bytes": 5311
+ },
+ {
+  "path": "icons/blue/underline-scribble.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/underline-scribble.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "underline-scribble",
+  "width": 1187,
+  "height": 95,
+  "bytes": 2368
+ },
+ {
+  "path": "icons/blue/user-refresh.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/user-refresh.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "user-refresh",
+  "width": 500,
+  "height": 500,
+  "bytes": 135473
+ },
+ {
+  "path": "icons/blue/user-refresh.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/user-refresh.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "user-refresh",
+  "width": 500,
+  "height": 500,
+  "bytes": 6715
+ },
+ {
+  "path": "icons/blue/wallet.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/wallet.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "wallet",
+  "width": 800,
+  "height": 800,
+  "bytes": 1248125
+ },
+ {
+  "path": "icons/blue/wallet.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/wallet.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "wallet",
+  "width": 800,
+  "height": 800,
+  "bytes": 23896
+ },
+ {
+  "path": "icons/blue/warning-red.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/warning-red.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "warning-red",
+  "width": 500,
+  "height": 500,
+  "bytes": 309124
+ },
+ {
+  "path": "icons/blue/warning-red.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/warning-red.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "warning-red",
+  "width": 500,
+  "height": 500,
+  "bytes": 11833
+ },
+ {
+  "path": "icons/blue/warning-triangle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/warning-triangle.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "warning-triangle",
+  "width": 800,
+  "height": 800,
+  "bytes": 150379
+ },
+ {
+  "path": "icons/blue/warning-triangle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/warning-triangle.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "warning-triangle",
+  "width": 800,
+  "height": 800,
+  "bytes": 17643
+ },
+ {
+  "path": "icons/blue/wave-lines.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/wave-lines.gif",
+  "category": "icons",
+  "set": "blue",
+  "name": "wave-lines",
+  "width": 800,
+  "height": 800,
+  "bytes": 327667
+ },
+ {
+  "path": "icons/blue/wave-lines.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/blue/wave-lines.png",
+  "category": "icons",
+  "set": "blue",
+  "name": "wave-lines",
+  "width": 800,
+  "height": 800,
+  "bytes": 7005
+ },
+ {
+  "path": "icons/white/arrow-left-fletched.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrow-left-fletched.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "arrow-left-fletched",
+  "width": 320,
+  "height": 60,
+  "bytes": 72666
+ },
+ {
+  "path": "icons/white/arrow-left-fletched.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrow-left-fletched.png",
+  "category": "icons",
+  "set": "white",
+  "name": "arrow-left-fletched",
+  "width": 320,
+  "height": 60,
+  "bytes": 662
+ },
+ {
+  "path": "icons/white/arrow-right-outline.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrow-right-outline.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "arrow-right-outline",
+  "width": 510,
+  "height": 328,
+  "bytes": 30002
+ },
+ {
+  "path": "icons/white/arrow-right-outline.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrow-right-outline.png",
+  "category": "icons",
+  "set": "white",
+  "name": "arrow-right-outline",
+  "width": 510,
+  "height": 328,
+  "bytes": 2239
+ },
+ {
+  "path": "icons/white/arrows-down-three.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrows-down-three.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "arrows-down-three",
+  "width": 466,
+  "height": 295,
+  "bytes": 38437
+ },
+ {
+  "path": "icons/white/arrows-down-three.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/arrows-down-three.png",
+  "category": "icons",
+  "set": "white",
+  "name": "arrows-down-three",
+  "width": 466,
+  "height": 295,
+  "bytes": 2091
+ },
+ {
+  "path": "icons/white/asterisk-burst.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/asterisk-burst.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "asterisk-burst",
+  "width": 562,
+  "height": 611,
+  "bytes": 6307
+ },
+ {
+  "path": "icons/white/asterisk-burst.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/asterisk-burst.png",
+  "category": "icons",
+  "set": "white",
+  "name": "asterisk-burst",
+  "width": 562,
+  "height": 611,
+  "bytes": 4184
+ },
+ {
+  "path": "icons/white/bar-chart.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/bar-chart.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "bar-chart",
+  "width": 600,
+  "height": 600,
+  "bytes": 90307
+ },
+ {
+  "path": "icons/white/bar-chart.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/bar-chart.png",
+  "category": "icons",
+  "set": "white",
+  "name": "bar-chart",
+  "width": 600,
+  "height": 600,
+  "bytes": 5168
+ },
+ {
+  "path": "icons/white/battery-full.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/battery-full.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "battery-full",
+  "width": 800,
+  "height": 493,
+  "bytes": 590137
+ },
+ {
+  "path": "icons/white/battery-full.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/battery-full.png",
+  "category": "icons",
+  "set": "white",
+  "name": "battery-full",
+  "width": 800,
+  "height": 493,
+  "bytes": 2567
+ },
+ {
+  "path": "icons/white/bell-notification.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/bell-notification.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "bell-notification",
+  "width": 600,
+  "height": 600,
+  "bytes": 49725
+ },
+ {
+  "path": "icons/white/bell-notification.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/bell-notification.png",
+  "category": "icons",
+  "set": "white",
+  "name": "bell-notification",
+  "width": 600,
+  "height": 600,
+  "bytes": 4647
+ },
+ {
+  "path": "icons/white/burst-lines.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/burst-lines.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "burst-lines",
+  "width": 1242,
+  "height": 557,
+  "bytes": 7924
+ },
+ {
+  "path": "icons/white/burst-lines.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/burst-lines.png",
+  "category": "icons",
+  "set": "white",
+  "name": "burst-lines",
+  "width": 1242,
+  "height": 557,
+  "bytes": 6524
+ },
+ {
+  "path": "icons/white/button-pill-1.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-1.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-1",
+  "width": 576,
+  "height": 576,
+  "bytes": 129799
+ },
+ {
+  "path": "icons/white/button-pill-1.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-1.png",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-1",
+  "width": 576,
+  "height": 576,
+  "bytes": 4004
+ },
+ {
+  "path": "icons/white/button-pill-2.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-2.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-2",
+  "width": 576,
+  "height": 576,
+  "bytes": 116598
+ },
+ {
+  "path": "icons/white/button-pill-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-2.png",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-2",
+  "width": 576,
+  "height": 576,
+  "bytes": 5002
+ },
+ {
+  "path": "icons/white/button-pill-3.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-3.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-3",
+  "width": 502,
+  "height": 157,
+  "bytes": 168765
+ },
+ {
+  "path": "icons/white/button-pill-3.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/button-pill-3.png",
+  "category": "icons",
+  "set": "white",
+  "name": "button-pill-3",
+  "width": 502,
+  "height": 157,
+  "bytes": 3560
+ },
+ {
+  "path": "icons/white/calendar.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/calendar.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "calendar",
+  "width": 600,
+  "height": 600,
+  "bytes": 85796
+ },
+ {
+  "path": "icons/white/calendar.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/calendar.png",
+  "category": "icons",
+  "set": "white",
+  "name": "calendar",
+  "width": 600,
+  "height": 600,
+  "bytes": 4294
+ },
+ {
+  "path": "icons/white/cart-dollar.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cart-dollar.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "cart-dollar",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 151847
+ },
+ {
+  "path": "icons/white/cart-dollar.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cart-dollar.png",
+  "category": "icons",
+  "set": "white",
+  "name": "cart-dollar",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 14948
+ },
+ {
+  "path": "icons/white/cart-upload.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cart-upload.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "cart-upload",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 152458
+ },
+ {
+  "path": "icons/white/cart-upload.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cart-upload.png",
+  "category": "icons",
+  "set": "white",
+  "name": "cart-upload",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 14860
+ },
+ {
+  "path": "icons/white/chat-bubble.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chat-bubble.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "chat-bubble",
+  "width": 416,
+  "height": 404,
+  "bytes": 14419
+ },
+ {
+  "path": "icons/white/chat-bubble.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chat-bubble.png",
+  "category": "icons",
+  "set": "white",
+  "name": "chat-bubble",
+  "width": 416,
+  "height": 404,
+  "bytes": 2050
+ },
+ {
+  "path": "icons/white/chat-typing.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chat-typing.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "chat-typing",
+  "width": 193,
+  "height": 101,
+  "bytes": 2532
+ },
+ {
+  "path": "icons/white/chat-typing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chat-typing.png",
+  "category": "icons",
+  "set": "white",
+  "name": "chat-typing",
+  "width": 193,
+  "height": 101,
+  "bytes": 1235
+ },
+ {
+  "path": "icons/white/checkmark-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/checkmark-circle.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "checkmark-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 35726
+ },
+ {
+  "path": "icons/white/checkmark-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/checkmark-circle.png",
+  "category": "icons",
+  "set": "white",
+  "name": "checkmark-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 4629
+ },
+ {
+  "path": "icons/white/chevrons-double.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chevrons-double.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "chevrons-double",
+  "width": 532,
+  "height": 350,
+  "bytes": 97042
+ },
+ {
+  "path": "icons/white/chevrons-double.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/chevrons-double.png",
+  "category": "icons",
+  "set": "white",
+  "name": "chevrons-double",
+  "width": 532,
+  "height": 350,
+  "bytes": 7962
+ },
+ {
+  "path": "icons/white/circle-outline.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/circle-outline.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "circle-outline",
+  "width": 800,
+  "height": 800,
+  "bytes": 373135
+ },
+ {
+  "path": "icons/white/circle-outline.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/circle-outline.png",
+  "category": "icons",
+  "set": "white",
+  "name": "circle-outline",
+  "width": 800,
+  "height": 800,
+  "bytes": 6112
+ },
+ {
+  "path": "icons/white/credit-card.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/credit-card.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "credit-card",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 1425574
+ },
+ {
+  "path": "icons/white/credit-card.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/credit-card.png",
+  "category": "icons",
+  "set": "white",
+  "name": "credit-card",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 18547
+ },
+ {
+  "path": "icons/white/cursor-click.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cursor-click.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "cursor-click",
+  "width": 1266,
+  "height": 1665,
+  "bytes": 329882
+ },
+ {
+  "path": "icons/white/cursor-click.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/cursor-click.png",
+  "category": "icons",
+  "set": "white",
+  "name": "cursor-click",
+  "width": 1266,
+  "height": 1665,
+  "bytes": 17179
+ },
+ {
+  "path": "icons/white/dashed-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/dashed-circle.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "dashed-circle",
+  "width": 1501,
+  "height": 1500,
+  "bytes": 13719
+ },
+ {
+  "path": "icons/white/dashed-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/dashed-circle.png",
+  "category": "icons",
+  "set": "white",
+  "name": "dashed-circle",
+  "width": 1501,
+  "height": 1500,
+  "bytes": 17582
+ },
+ {
+  "path": "icons/white/dot-filled.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/dot-filled.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "dot-filled",
+  "width": 800,
+  "height": 800,
+  "bytes": 259266
+ },
+ {
+  "path": "icons/white/dot-filled.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/dot-filled.png",
+  "category": "icons",
+  "set": "white",
+  "name": "dot-filled",
+  "width": 800,
+  "height": 800,
+  "bytes": 4579
+ },
+ {
+  "path": "icons/white/download-circle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/download-circle.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "download-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 102176
+ },
+ {
+  "path": "icons/white/download-circle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/download-circle.png",
+  "category": "icons",
+  "set": "white",
+  "name": "download-circle",
+  "width": 600,
+  "height": 600,
+  "bytes": 3910
+ },
+ {
+  "path": "icons/white/download.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/download.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "download",
+  "width": 700,
+  "height": 624,
+  "bytes": 135729
+ },
+ {
+  "path": "icons/white/download.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/download.png",
+  "category": "icons",
+  "set": "white",
+  "name": "download",
+  "width": 700,
+  "height": 624,
+  "bytes": 2969
+ },
+ {
+  "path": "icons/white/folder-open-2.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/folder-open-2.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "folder-open-2",
+  "width": 600,
+  "height": 600,
+  "bytes": 216788
+ },
+ {
+  "path": "icons/white/folder-open-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/folder-open-2.png",
+  "category": "icons",
+  "set": "white",
+  "name": "folder-open-2",
+  "width": 600,
+  "height": 600,
+  "bytes": 2570
+ },
+ {
+  "path": "icons/white/folder-open.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/folder-open.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "folder-open",
+  "width": 600,
+  "height": 600,
+  "bytes": 215780
+ },
+ {
+  "path": "icons/white/folder-open.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/folder-open.png",
+  "category": "icons",
+  "set": "white",
+  "name": "folder-open",
+  "width": 600,
+  "height": 600,
+  "bytes": 2570
+ },
+ {
+  "path": "icons/white/loading-spinner.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/loading-spinner.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "loading-spinner",
+  "width": 1501,
+  "height": 1501,
+  "bytes": 121116
+ },
+ {
+  "path": "icons/white/loading-spinner.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/loading-spinner.png",
+  "category": "icons",
+  "set": "white",
+  "name": "loading-spinner",
+  "width": 1501,
+  "height": 1501,
+  "bytes": 25962
+ },
+ {
+  "path": "icons/white/location-pin.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/location-pin.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "location-pin",
+  "width": 600,
+  "height": 600,
+  "bytes": 97877
+ },
+ {
+  "path": "icons/white/location-pin.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/location-pin.png",
+  "category": "icons",
+  "set": "white",
+  "name": "location-pin",
+  "width": 600,
+  "height": 600,
+  "bytes": 6417
+ },
+ {
+  "path": "icons/white/mail-notification.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/mail-notification.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "mail-notification",
+  "width": 716,
+  "height": 716,
+  "bytes": 16823
+ },
+ {
+  "path": "icons/white/mail-notification.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/mail-notification.png",
+  "category": "icons",
+  "set": "white",
+  "name": "mail-notification",
+  "width": 716,
+  "height": 716,
+  "bytes": 8948
+ },
+ {
+  "path": "icons/white/megaphone.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/megaphone.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "megaphone",
+  "width": 1936,
+  "height": 1755,
+  "bytes": 636229
+ },
+ {
+  "path": "icons/white/megaphone.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/megaphone.png",
+  "category": "icons",
+  "set": "white",
+  "name": "megaphone",
+  "width": 1936,
+  "height": 1755,
+  "bytes": 23152
+ },
+ {
+  "path": "icons/white/newsletter-mail.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/newsletter-mail.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "newsletter-mail",
+  "width": 716,
+  "height": 716,
+  "bytes": 98542
+ },
+ {
+  "path": "icons/white/newsletter-mail.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/newsletter-mail.png",
+  "category": "icons",
+  "set": "white",
+  "name": "newsletter-mail",
+  "width": 716,
+  "height": 716,
+  "bytes": 7641
+ },
+ {
+  "path": "icons/white/phone-call.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/phone-call.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "phone-call",
+  "width": 600,
+  "height": 600,
+  "bytes": 88755
+ },
+ {
+  "path": "icons/white/phone-call.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/phone-call.png",
+  "category": "icons",
+  "set": "white",
+  "name": "phone-call",
+  "width": 600,
+  "height": 600,
+  "bytes": 13339
+ },
+ {
+  "path": "icons/white/rating-five-stars.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/rating-five-stars.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "rating-five-stars",
+  "width": 1980,
+  "height": 1352,
+  "bytes": 251035
+ },
+ {
+  "path": "icons/white/rating-five-stars.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/rating-five-stars.png",
+  "category": "icons",
+  "set": "white",
+  "name": "rating-five-stars",
+  "width": 1980,
+  "height": 1352,
+  "bytes": 17252
+ },
+ {
+  "path": "icons/white/search-magnifier.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/search-magnifier.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "search-magnifier",
+  "width": 600,
+  "height": 600,
+  "bytes": 219351
+ },
+ {
+  "path": "icons/white/search-magnifier.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/search-magnifier.png",
+  "category": "icons",
+  "set": "white",
+  "name": "search-magnifier",
+  "width": 600,
+  "height": 600,
+  "bytes": 3937
+ },
+ {
+  "path": "icons/white/share-nodes.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/share-nodes.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "share-nodes",
+  "width": 800,
+  "height": 800,
+  "bytes": 418449
+ },
+ {
+  "path": "icons/white/share-nodes.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/share-nodes.png",
+  "category": "icons",
+  "set": "white",
+  "name": "share-nodes",
+  "width": 800,
+  "height": 800,
+  "bytes": 6604
+ },
+ {
+  "path": "icons/white/support-headset.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/support-headset.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "support-headset",
+  "width": 2048,
+  "height": 1365,
+  "bytes": 18747
+ },
+ {
+  "path": "icons/white/support-headset.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/support-headset.png",
+  "category": "icons",
+  "set": "white",
+  "name": "support-headset",
+  "width": 2048,
+  "height": 1365,
+  "bytes": 25598
+ },
+ {
+  "path": "icons/white/target-arrow.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/target-arrow.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "target-arrow",
+  "width": 500,
+  "height": 500,
+  "bytes": 53475
+ },
+ {
+  "path": "icons/white/target-arrow.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/target-arrow.png",
+  "category": "icons",
+  "set": "white",
+  "name": "target-arrow",
+  "width": 500,
+  "height": 500,
+  "bytes": 5226
+ },
+ {
+  "path": "icons/white/team-people.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/team-people.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "team-people",
+  "width": 962,
+  "height": 1008,
+  "bytes": 201719
+ },
+ {
+  "path": "icons/white/team-people.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/team-people.png",
+  "category": "icons",
+  "set": "white",
+  "name": "team-people",
+  "width": 962,
+  "height": 1008,
+  "bytes": 5257
+ },
+ {
+  "path": "icons/white/thumbs-up-2.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/thumbs-up-2.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "thumbs-up-2",
+  "width": 878,
+  "height": 845,
+  "bytes": 206290
+ },
+ {
+  "path": "icons/white/thumbs-up-2.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/thumbs-up-2.png",
+  "category": "icons",
+  "set": "white",
+  "name": "thumbs-up-2",
+  "width": 878,
+  "height": 845,
+  "bytes": 5947
+ },
+ {
+  "path": "icons/white/thumbs-up.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/thumbs-up.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "thumbs-up",
+  "width": 900,
+  "height": 900,
+  "bytes": 49772
+ },
+ {
+  "path": "icons/white/thumbs-up.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/thumbs-up.png",
+  "category": "icons",
+  "set": "white",
+  "name": "thumbs-up",
+  "width": 900,
+  "height": 900,
+  "bytes": 6335
+ },
+ {
+  "path": "icons/white/underline-scribble.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/underline-scribble.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "underline-scribble",
+  "width": 1187,
+  "height": 95,
+  "bytes": 3678
+ },
+ {
+  "path": "icons/white/underline-scribble.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/underline-scribble.png",
+  "category": "icons",
+  "set": "white",
+  "name": "underline-scribble",
+  "width": 1187,
+  "height": 95,
+  "bytes": 1284
+ },
+ {
+  "path": "icons/white/user-refresh.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/user-refresh.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "user-refresh",
+  "width": 500,
+  "height": 500,
+  "bytes": 96183
+ },
+ {
+  "path": "icons/white/user-refresh.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/user-refresh.png",
+  "category": "icons",
+  "set": "white",
+  "name": "user-refresh",
+  "width": 500,
+  "height": 500,
+  "bytes": 3657
+ },
+ {
+  "path": "icons/white/warning-triangle.gif",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/warning-triangle.gif",
+  "category": "icons",
+  "set": "white",
+  "name": "warning-triangle",
+  "width": 800,
+  "height": 800,
+  "bytes": 78731
+ },
+ {
+  "path": "icons/white/warning-triangle.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/icons/white/warning-triangle.png",
+  "category": "icons",
+  "set": "white",
+  "name": "warning-triangle",
+  "width": 800,
+  "height": 800,
+  "bytes": 6369
+ },
+ {
+  "path": "product-icons/2d/agentforce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/agentforce.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "agentforce",
+  "width": 440,
+  "height": 440,
+  "bytes": 20219
+ },
+ {
+  "path": "product-icons/2d/commerce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/commerce.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "commerce",
+  "width": 220,
+  "height": 220,
+  "bytes": 6658
+ },
+ {
+  "path": "product-icons/2d/customer-360.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/customer-360.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "customer-360",
+  "width": 440,
+  "height": 440,
+  "bytes": 23247
+ },
+ {
+  "path": "product-icons/2d/customer-success.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/customer-success.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "customer-success",
+  "width": 220,
+  "height": 220,
+  "bytes": 6151
+ },
+ {
+  "path": "product-icons/2d/data-cloud.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/data-cloud.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "data-cloud",
+  "width": 220,
+  "height": 220,
+  "bytes": 8571
+ },
+ {
+  "path": "product-icons/2d/heroku.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/heroku.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "heroku",
+  "width": 220,
+  "height": 220,
+  "bytes": 4673
+ },
+ {
+  "path": "product-icons/2d/industries.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/industries.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "industries",
+  "width": 220,
+  "height": 220,
+  "bytes": 5089
+ },
+ {
+  "path": "product-icons/2d/informatica.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/informatica.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "informatica",
+  "width": 440,
+  "height": 440,
+  "bytes": 11329
+ },
+ {
+  "path": "product-icons/2d/marketing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/marketing.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "marketing",
+  "width": 220,
+  "height": 220,
+  "bytes": 8047
+ },
+ {
+  "path": "product-icons/2d/mulesoft.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/mulesoft.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "mulesoft",
+  "width": 660,
+  "height": 660,
+  "bytes": 20916
+ },
+ {
+  "path": "product-icons/2d/net-zero.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/net-zero.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "net-zero",
+  "width": 220,
+  "height": 220,
+  "bytes": 6164
+ },
+ {
+  "path": "product-icons/2d/partner-and-custom-apps.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/partner-and-custom-apps.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "partner-and-custom-apps",
+  "width": 330,
+  "height": 330,
+  "bytes": 6614
+ },
+ {
+  "path": "product-icons/2d/platform.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/platform.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "platform",
+  "width": 440,
+  "height": 440,
+  "bytes": 8703
+ },
+ {
+  "path": "product-icons/2d/sales.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/sales.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "sales",
+  "width": 220,
+  "height": 220,
+  "bytes": 4876
+ },
+ {
+  "path": "product-icons/2d/service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/service.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "service",
+  "width": 440,
+  "height": 440,
+  "bytes": 9659
+ },
+ {
+  "path": "product-icons/2d/slack.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/slack.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "slack",
+  "width": 440,
+  "height": 440,
+  "bytes": 9903
+ },
+ {
+  "path": "product-icons/2d/small-business.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/small-business.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "small-business",
+  "width": 403,
+  "height": 403,
+  "bytes": 6367
+ },
+ {
+  "path": "product-icons/2d/tableau.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/tableau.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "tableau",
+  "width": 220,
+  "height": 220,
+  "bytes": 7667
+ },
+ {
+  "path": "product-icons/2d/trailhead.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/trailhead.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "trailhead",
+  "width": 440,
+  "height": 440,
+  "bytes": 18184
+ },
+ {
+  "path": "product-icons/3d/agentforce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/agentforce.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "agentforce",
+  "width": 681,
+  "height": 681,
+  "bytes": 203662
+ },
+ {
+  "path": "product-icons/3d/commerce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/commerce.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "commerce",
+  "width": 681,
+  "height": 681,
+  "bytes": 173778
+ },
+ {
+  "path": "product-icons/3d/customer-success.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/customer-success.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "customer-success",
+  "width": 681,
+  "height": 681,
+  "bytes": 248554
+ },
+ {
+  "path": "product-icons/3d/data-cloud.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/data-cloud.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "data-cloud",
+  "width": 681,
+  "height": 681,
+  "bytes": 295516
+ },
+ {
+  "path": "product-icons/3d/heroku.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/heroku.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "heroku",
+  "width": 681,
+  "height": 681,
+  "bytes": 180268
+ },
+ {
+  "path": "product-icons/3d/industries.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/industries.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "industries",
+  "width": 681,
+  "height": 681,
+  "bytes": 152486
+ },
+ {
+  "path": "product-icons/3d/informatica.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/informatica.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "informatica",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 217111
+ },
+ {
+  "path": "product-icons/3d/marketing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/marketing.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "marketing",
+  "width": 681,
+  "height": 681,
+  "bytes": 172681
+ },
+ {
+  "path": "product-icons/3d/mulesoft.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/mulesoft.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "mulesoft",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 319031
+ },
+ {
+  "path": "product-icons/3d/net-zero.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/net-zero.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "net-zero",
+  "width": 681,
+  "height": 681,
+  "bytes": 139214
+ },
+ {
+  "path": "product-icons/3d/partner-and-custom-apps.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/partner-and-custom-apps.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "partner-and-custom-apps",
+  "width": 681,
+  "height": 681,
+  "bytes": 189024
+ },
+ {
+  "path": "product-icons/3d/platform.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/platform.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "platform",
+  "width": 681,
+  "height": 681,
+  "bytes": 102370
+ },
+ {
+  "path": "product-icons/3d/sales.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/sales.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "sales",
+  "width": 681,
+  "height": 681,
+  "bytes": 191138
+ },
+ {
+  "path": "product-icons/3d/service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/service.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "service",
+  "width": 681,
+  "height": 681,
+  "bytes": 113346
+ },
+ {
+  "path": "product-icons/3d/slack.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/slack.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "slack",
+  "width": 681,
+  "height": 681,
+  "bytes": 137437
+ },
+ {
+  "path": "product-icons/3d/small-business.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/small-business.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "small-business",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 323268
+ },
+ {
+  "path": "product-icons/3d/tableau.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/tableau.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "tableau",
+  "width": 681,
+  "height": 681,
+  "bytes": 229564
+ },
+ {
+  "path": "product-icons/3d/trailhead.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/trailhead.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "trailhead",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 754915
+ },
+ {
+  "path": "product-icons/flat/agentforce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/agentforce.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "agentforce",
+  "width": 440,
+  "height": 440,
+  "bytes": 21331
+ },
+ {
+  "path": "product-icons/flat/analytics.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/analytics.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "analytics",
+  "width": 110,
+  "height": 110,
+  "bytes": 710
+ },
+ {
+  "path": "product-icons/flat/commerce.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/commerce.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "commerce",
+  "width": 640,
+  "height": 640,
+  "bytes": 8523
+ },
+ {
+  "path": "product-icons/flat/customer-360.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/customer-360.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "customer-360",
+  "width": 386,
+  "height": 386,
+  "bytes": 12278
+ },
+ {
+  "path": "product-icons/flat/customer-success.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/customer-success.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "customer-success",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 71403
+ },
+ {
+  "path": "product-icons/flat/data-cloud.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/data-cloud.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "data-cloud",
+  "width": 110,
+  "height": 110,
+  "bytes": 5571
+ },
+ {
+  "path": "product-icons/flat/experience.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/experience.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "experience",
+  "width": 110,
+  "height": 110,
+  "bytes": 2481
+ },
+ {
+  "path": "product-icons/flat/field-service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/field-service.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "field-service",
+  "width": 440,
+  "height": 440,
+  "bytes": 13004
+ },
+ {
+  "path": "product-icons/flat/heroku.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/heroku.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "heroku",
+  "width": 86,
+  "height": 86,
+  "bytes": 1137
+ },
+ {
+  "path": "product-icons/flat/industries.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/industries.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "industries",
+  "width": 110,
+  "height": 110,
+  "bytes": 1141
+ },
+ {
+  "path": "product-icons/flat/marketing.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/marketing.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "marketing",
+  "width": 397,
+  "height": 396,
+  "bytes": 11402
+ },
+ {
+  "path": "product-icons/flat/mulesoft.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/mulesoft.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "mulesoft",
+  "width": 74,
+  "height": 74,
+  "bytes": 7521
+ },
+ {
+  "path": "product-icons/flat/net-zero.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/net-zero.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "net-zero",
+  "width": 56,
+  "height": 74,
+  "bytes": 5531
+ },
+ {
+  "path": "product-icons/flat/partner-and-custom-apps.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/partner-and-custom-apps.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "partner-and-custom-apps",
+  "width": 234,
+  "height": 234,
+  "bytes": 5419
+ },
+ {
+  "path": "product-icons/flat/platform.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/platform.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "platform",
+  "width": 640,
+  "height": 640,
+  "bytes": 13247
+ },
+ {
+  "path": "product-icons/flat/revenue-and-orders.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/revenue-and-orders.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "revenue-and-orders",
+  "width": 110,
+  "height": 110,
+  "bytes": 2877
+ },
+ {
+  "path": "product-icons/flat/sales.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/sales.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "sales",
+  "width": 234,
+  "height": 234,
+  "bytes": 3502
+ },
+ {
+  "path": "product-icons/flat/service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/service.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "service",
+  "width": 110,
+  "height": 110,
+  "bytes": 2237
+ },
+ {
+  "path": "product-icons/flat/slack.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/slack.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "slack",
+  "width": 1000,
+  "height": 1000,
+  "bytes": 78169
+ },
+ {
+  "path": "product-icons/flat/small-business.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/small-business.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "small-business",
+  "width": 110,
+  "height": 110,
+  "bytes": 1884
+ },
+ {
+  "path": "product-icons/flat/tableau.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/tableau.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "tableau",
+  "width": 640,
+  "height": 640,
+  "bytes": 3437
+ },
+ {
+  "path": "product-icons/flat/trailhead.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/flat/trailhead.png",
+  "category": "product-icons",
+  "set": "flat",
+  "name": "trailhead",
+  "width": 110,
+  "height": 110,
+  "bytes": 4383
+ }
+]

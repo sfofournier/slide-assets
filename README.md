@@ -105,11 +105,11 @@ White-only extras: `asterisk-burst` (emphasis), `button-pill-1..3` (blank UI but
 
 ## product-icons/2d — official 2026 2D style
 
-`customer-360.png`, `net-zero.png`, `industries.png`, `customer-success.png`, `partner-and-custom-apps.png`, `data-cloud.png`, `slack.png`, `platform.png`, `mulesoft.png`, `small-business.png`, `tableau.png`, `commerce.png`, `agentforce.png`, `sales.png`, `service.png`, `marketing.png`, `heroku.png`, `trailhead.png`, `informatica.png`
+`customer-360.png`, `net-zero.png`, `industries.png`, `customer-success.png`, `partner-and-custom-apps.png`, `data-cloud.png`, `slack.png`, `platform.png`, `mulesoft.png`, `small-business.png`, `tableau.png`, `commerce.png`, `agentforce.png`, `sales.png`, `service.png`, `marketing.png`, `heroku.png`, `trailhead.png`, `informatica.png`, `field-service.png`
 
 ## product-icons/3d — official 2026 3D style
 
-`commerce.png`, `data-cloud.png`, `agentforce.png`, `sales.png`, `service.png`, `slack.png`, `platform.png`, `mulesoft.png`, `marketing.png`, `partner-and-custom-apps.png`, `small-business.png`, `industries.png`, `customer-success.png`, `tableau.png`, `heroku.png`, `trailhead.png`, `informatica.png`, `net-zero.png`
+`commerce.png`, `data-cloud.png`, `agentforce.png`, `sales.png`, `service.png`, `slack.png`, `platform.png`, `mulesoft.png`, `marketing.png`, `partner-and-custom-apps.png`, `small-business.png`, `industries.png`, `customer-success.png`, `tableau.png`, `heroku.png`, `trailhead.png`, `informatica.png`, `net-zero.png`, `field-service.png` (400 px)
 
 ## agent-astro — 3D character (PNG, transparent)
 
@@ -125,3 +125,49 @@ White-only extras: `asterisk-burst` (emphasis), `button-pill-1..3` (blank UI but
 | jumping-waving.png | jumping and waving: energy, kick-off |
 | standing-presenting-right.png | standing, presenting to the right: place left of content |
 | shadow.png | isolated ground shadow to sit under any pose |
+
+## GitHub mirror — for Google Slides
+
+Everything in this folder except `logos/` and `Shapes kit.pptx` is mirrored to the public repo https://github.com/sfofournier/slide-assets (kebab-case paths, e.g. `3d-accents/sparkles/sparkle-blue.png` → `3d-accents/sparkles/sparkle-blue.png`). The Google Slides API can only insert images from a public URL, so Google Slides decks use `https//raw-githubusercontent-com/sfofournier/slide-assets/main/path`; `manifest.json` at the repo root lists every path with its size. After changing this folder, run `/sync.sh` in the local clone (`/documents/other-bvs/slide-assets`). Never add customer logos, people photos or anything confidential here.
+
+## 3d-accents — brand accents (PNG, transparent, ≤1000 px)
+
+Accents add the brand's warmth to a key slide; they are not information. Rules: 1–2 accents per slide, only on the single callout, the key-message slide, a title, divider or closing slide; one colour family per slide; overlap a corner of the card (about a third of the accent outside it), never over text or data.
+
+| set | files | meaning / when to use |
+|---|---|---|
+| Sparkles | `sparkle-yellow-cyan-blue-teal-pink-violet-2-3.png` (3 angles per colour) | AI, Agentforce, "new", insight. Default accent on AI slides. Pick the colour closest to the slide's accent; yellow for highlights |
+| Sparkles | `sparkle-holographic-blue-violet.png`, `sparkle-holographic-blue-tall.png` | premium / hero AI moment (cover, key message) |
+| Sparkles | `sparkles-cluster-blue.png` | one big + two small sparkles: delight, magic moment |
+| Sparkles | `sparkles-app-tile.png` | AI feature, "Einstein / Agentforce inside" |
+| Cursors | `cursor-violet-blue-teal-pink-orange.png` | click, self-service, digital action, demo |
+| Emoji | `grinning, laughing, smiling, winking, heart-eyes, party` | delight, satisfaction, success, celebration |
+| Emoji | `thinking, worried, anxious, astonished, mind-blown, angry` | doubt, pain point, frustration, surprise (one per pain point) |
+| Emoji | `headset-support` | customer service, contact centre, support agent |
+| Hands | `thumbs-up, thumbs-up-left` | approval, agreement, "done" |
+| Hands | `handshake` | partnership, deal, alliance (e.g. Orange × Salesforce) |
+| Hands | `clap` | congratulations, win, thank you |
+| Hands | `pinch` | "just right", precision, small detail |
+| Objects | `heart-pink, heart-glossy` | customer love, trust, care, loyalty |
+| Objects | `rocket, jetpack, chevrons-forward` | launch, acceleration, go-live, next steps |
+| Objects | `lightbulb` | idea, innovation |
+| Objects | `person-check, person-scan-pink` | verified user, identity / 360 view of a customer |
+| Objects | `lock-holographic` | security, trust, compliance |
+| Objects | `location-pin, compass` | place, store, field / direction, strategy |
+| Objects | `graduation-cap, trailhead-badge` | training, enablement, Trailhead |
+| Objects | `hex-badge-navy-sparkle, hex-badge-violet` | container for a number or label (badge) |
+| Objects | `paintbrush, plus-tile-glass` | customisation, design / add, new |
+
+## astro — Trailhead Astro (the brown mascot, PNG)
+
+Use for Trailhead, learning, community and customer-success content; not for Agentforce (that is Agent Astro). One pose per slide, facing the content; put `agent-astro/shadow.png` under standing poses if needed.
+
+`presenting-right`, `presenting-right-tee`, `presenting-right-hoodie`, `reaching-right-closeup` (place left of content) · `holding-sign`, `holding-sign-2` (white disc to carry a number or word) · `waving`, `waving-slack-shirt`, `jumping-waving` (welcome, kick-off) · `walking`, `walking-tee`, `walking-hoodie`, `running` (progress, journey) · `standing-backpack`, `standing-hoodie` (neutral) · `selfie` (mobile, social) · `crystal-ball-ai` (AI + CRM, prediction) · `hard-hat` (implementation, build) · `ranger-sparkle` (guide, discovery, AI)
+
+## frames — device outlines (white, transparent screen)
+
+`laptop`, `monitor`, `phone`, `tablet`: put a product screenshot behind the frame (send the screenshot to back).
+
+## cards — shadowed white cards for callouts
+
+`card-1x1, card-4x3, card-3x2, card-2x1, card-3x1, card-3x4, card-1x2`: white rounded card (radius 10 %) with the brand shadow (#066AFE at 15 %, soft blur, slightly below). Google Slides cannot draw shadows through the API, so the callout is this PNG behind a text box. Pick the ratio closest to the text block; never stretch a card more than ±15 % in one direction (the corners distort).

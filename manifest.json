@@ -3470,6 +3470,16 @@
   "bytes": 8571
  },
  {
+  "path": "product-icons/2d/field-service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/field-service.png",
+  "category": "product-icons",
+  "set": "2d",
+  "name": "field-service",
+  "width": 440,
+  "height": 440,
+  "bytes": 9193
+ },
+ {
   "path": "product-icons/2d/heroku.png",
   "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/2d/heroku.png",
   "category": "product-icons",
@@ -3648,6 +3658,16 @@
   "width": 681,
   "height": 681,
   "bytes": 295516
+ },
+ {
+  "path": "product-icons/3d/field-service.png",
+  "url": "https://raw.githubusercontent.com/sfofournier/slide-assets/main/product-icons/3d/field-service.png",
+  "category": "product-icons",
+  "set": "3d",
+  "name": "field-service",
+  "width": 400,
+  "height": 400,
+  "bytes": 71473
  },
  {
   "path": "product-icons/3d/heroku.png",
